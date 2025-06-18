@@ -1,6 +1,6 @@
 - 👋 Hi, @FiddelMyStick with u
-- 👀 I’m interested in being a coding worm and mostly on being also a cyberop
-- 🌱 I’m currently learning cybersecurity and web dev
+- 👀 I’m interested in being a coding worm and mostly on AI stuff
+- 🌱 I’m currently learning some on everything
 - 💞️ I’m looking to collaborate on nothing tbh i only need documentation and i would finish the thing alone mostly
 - 📫 How to reach me email: tfmteam.coc@gmail.com or bounjoum.noujoum@gmail.com
 
