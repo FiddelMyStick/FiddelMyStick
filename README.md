@@ -3,6 +3,6 @@
 - 📫 How to reach me email: tfmteam.coc@gmail.com or bounjoum.noujoum@gmail.com
 
 <!---
-FiddelMyStick/FiddelMyStick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mauler/FiddelMyStick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
