@@ -1,6 +1,6 @@
-- 👋 Hi, @FiddelMyStick with u
-- 👀 A tech worm and mostly on AI/Machine Learning stuff, can code using anything on anything
-- 📫 How to reach me email: tfmteam.coc@gmail.com or bounjoum.noujoum@gmail.com
+- Greetings, @FiddelMyStick with u
+- A tech worm driven by thirst for AI/Machine Learning & related stuff, can code using anything on anything
+- How to reach me email: tfmteam.coc@gmail.com or bounjoum.noujoum@gmail.com
 
 <!---
 Mauler/FiddelMyStick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
